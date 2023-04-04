@@ -1,0 +1,7 @@
+# This is a comment
+# Testing codeowner assigning
+* @fernoss
+* @KoblaQ
+
+# Also possible to assign certain language, for example JavaScript:
+*.js @fernoss

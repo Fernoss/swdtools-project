@@ -144,6 +144,11 @@ nav a:hover {
   margin-top: 10px;
 }
 
+/*more-products*/
+#more-products h2 {
+  font-size: 1em;
+}
+
 /* footer styles */
 footer {
   background-color: #ddd;
