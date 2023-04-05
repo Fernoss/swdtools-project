@@ -6,9 +6,10 @@
 }
 
 /* global styles */
+/* Font size changed to 15px */
 body {
   font-family: Arial, sans-serif;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 1.5;
 }
 
