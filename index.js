@@ -29,6 +29,7 @@ function addToCart(title, price) {
   `;
   cart.appendChild(cartItem);
 }
+// Just a comment
 // Search bar
 const searchForm = document.getElementById("search-form");
 const searchInput = document.getElementById("search-input");
